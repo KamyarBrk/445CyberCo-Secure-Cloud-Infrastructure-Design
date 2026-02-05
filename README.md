@@ -36,7 +36,8 @@ We identified five high-priority risks using an open-source risk assessment matr
 
 The design moves all 445CyberCo operations to the **Microsoft Azure Cloud** to ensure centralized management and visibility.
 
-[Image of a zero trust cloud network diagram featuring Microsoft Entra ID and Azure Virtual Desktop]
+<img width="789" height="601" alt="image" src="https://github.com/user-attachments/assets/e7eb26ad-33cf-4461-951d-3d11287727db" />
+
 
 ### ### Core Security Components
 * **Identity & Access Management:** **Microsoft Entra ID** enforces MFA, strong password policies, and device health checks before granting access.
